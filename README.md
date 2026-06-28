@@ -1,79 +1,201 @@
-<!-- Hero / Animated header -->
-<p align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00d8ff&width=900&height=55&lines=Flutter+Developer+💙;Mobile+Application+Developer;AI+%26+Mobile+Enthusiast" />
+<div align="center">
+
+# 💙 Mohammed Rafeeq Mohammed Al-Maqtri
+
+### Flutter Developer • Computer Science Graduate • Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Computer+Science+Graduate;Building+Beautiful+Mobile+Applications;Backend+Developer;AI+Enthusiast" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=almaqtri2&label=Profile%20Views&color=0277BD&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/almaqtri2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/almaqtri2?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/almaqtri2"><img alt="profile-views" src="https://komarev.com/ghpvc/?username=almaqtri2&style=flat-square&color=00d8ff" /></a>
-  <img alt="top-language" src="https://img.shields.io/badge/Primary-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white&colorA=0f1724&colorB=00bcd4" />
-  <img alt="status" src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-00d8ff?style=flat-square&logo=github" />
-  <a href="mailto:mohammedalmaqtri2@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-mohammedalmaqtri2%40gmail.com-00caff?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
-## 👋 Hi, I'm Mohammed Rafeeq Mohammed Al-Maqtri (almaqtri2)
+# 👨‍💻 About Me
 
-Flutter Developer 💙 • Computer Science Graduate • Mobile Application Developer • Backend Developer • AI Enthusiast
+I'm **Mohammed Rafeeq Mohammed Al-Maqtri**, a Computer Science graduate passionate about building high-quality Flutter applications with clean architecture and modern user experiences.
 
-<details>
-  <summary><strong>About Me</strong></summary>
+I specialize in mobile application development using **Flutter**, backend integration, RESTful APIs, Firebase, and scalable software solutions.
 
-I'm a passionate Flutter developer who builds beautiful, responsive, and high-performance mobile apps. I focus on clean architecture, maintainable state management, and smooth user experiences. I enjoy working with Firebase, REST APIs, and exploring AI integrations in mobile apps.
-
-Key strengths:
-- Flutter & Dart: clean and performant UIs
-- Clean Architecture: scalable and maintainable code
-- State Management: Riverpod, Bloc, Provider
-- Backend & APIs: Firebase, Node.js, PHP, Python, MySQL
-- Tools: Git, Linux, VS Code, Android Studio, Postman
-</details>
+My goal is to create applications that combine elegant design, high performance, and real-world impact.
 
 ---
 
-## 🔭 Current Focus
-- Flutter Clean Architecture  
-- Riverpod & Bloc  
-- Firebase services  
-- REST APIs  
-- Performance optimization  
-- UI/UX polish  
-- AI integration  
+# 🎓 Education
+
+🎓 **Bachelor of Science in Computer Science**
+
+Twintech University — Sana'a, Yemen
+
+📚 **English Language Certification**
+
+New Horizons Institute
 
 ---
 
-## 🛠️ Tech Stack
+# 💙 Flutter Tech Stack
 
-<p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-00ADB5?style=for-the-badge" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github,python,php,nodejs,mysql,linux"/>
+
 </p>
 
 ---
 
-## ⭐ Featured Flutter Projects
+# 🚀 Featured Flutter Projects
 
-(نفس تنسيقك ممتاز، خله كما هو 👍)
+## 🌱 Smart Seeds Incubator
+
+AI-powered smart agriculture application developed with Flutter.
+
+**Technologies**
+
+Flutter • Firebase • AI
+
+---
+
+## 🛒 E-Commerce Application
+
+Modern e-commerce application with:
+
+- Firebase Authentication
+- Cloud Firestore
+- Responsive UI
+- Product Management
 
 ---
 
-## 📫 Contact
+## 📰 News Application
 
-- GitHub: https://github.com/almaqtri2  
-- Email: mohammedalmaqtri2@gmail.com  
-- LinkedIn: (add your link)
+Flutter application using REST APIs.
+
+Features:
+
+- Live News
+- Categories
+- Search
+- Clean UI
 
 ---
+
+## 🛍 Amazon UI Clone
+
+Pixel-perfect Flutter interface inspired by Amazon.
+
+---
+
+## 👨‍💼 BSYS HR System
+
+Employee Management Application
+
+- Attendance
+- Leave Requests
+- Authentication
+- Backend Integration
+
+---
+
+## 💰 BSYS Collection System
+
+Collection & Supplier Management
+
+Backend:
+
+- PHP
+- Python
+- MySQL
+
+Frontend:
+
+Flutter
+
+---
+
+# 🛠 Skills
+
+✔ Flutter
+
+✔ Dart
+
+✔ Firebase
+
+✔ REST APIs
+
+✔ Python
+
+✔ PHP
+
+✔ Node.js
+
+✔ MySQL
+
+✔ Linux
+
+✔ Git & GitHub
+
+✔ Software Engineering
+
+✔ System Analysis & Design
+
+✔ Artificial Intelligence
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <em>"Building beautiful Flutter applications one pixel at a time 💙"</em>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=almaqtri2&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almaqtri2&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=almaqtri2&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- Flutter Clean Architecture
+- Riverpod
+- Bloc
+- Material 3
+- AI Integration
+- Software Architecture
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+mohammedalmaqtri2@gmail.com
+
+🐙 **GitHub**
+
+https://github.com/almaqtri2
+
+---
+
+<div align="center">
+
+## 💙 Building Beautiful Flutter Applications One Widget at a Time.
+
+⭐ Thanks for visiting my GitHub profile.
+
+</div>
