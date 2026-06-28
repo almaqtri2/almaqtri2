@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0175C2,100:13B9FD&text=Mohammed%20Rafeeq%20Mohammed%20Al-Maqtri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Backend%20Developer%20•%20Computer%20Science%20Graduate&descAlignY=58&descSize=18"/>
+</p>
+<h1 align="center">💙 Welcome to my GitHub Profile 💙</h1>
+
 <div align="center">
 
 # 💙 Mohammed Rafeeq Mohammed Al-Maqtri
