@@ -1,10 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?..."/>
-
 # 💙 Mohammed Rafeeq Mohammed Al-Maqtri
 
-### Flutter Developer • Backend Developer • Computer Science Graduate
+### Flutter Developer • Computer Science Graduate • Backend Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Flutter+Developer;Computer+Science+Graduate;Building+Beautiful+Mobile+Applications;Backend+Developer;AI+Enthusiast" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=almaqtri2&label=Profile%20Views&color=0277BD&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/almaqtri2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/almaqtri2?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
 # 👨‍💻 About Me
 
 I'm **Mohammed Rafeeq Mohammed Al-Maqtri**, a Computer Science graduate passionate about building high-quality Flutter applications with clean architecture and modern user experiences.
