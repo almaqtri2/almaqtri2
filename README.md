@@ -1,76 +1,97 @@
-<!--
-  README for: Mohammed Rafeeq Mohammed Al-Maqtri (almaqtri2)
-  Theme: Dark, Flutter-inspired (blue/cyan accents)
-  Notes: Paste this into a repository named exactly `almaqtri2` to use as your profile README.
--->
-
-<!-- Hero / Animated header -->
+<!-- HEADER -->
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&color=00d8ff&width=900&height=55&lines=Flutter+Developer+%F0%9F%92%99;Mobile+Application+Developer;AI+%26+Mobile+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=00d8ff&width=900&height=60&lines=Flutter+Developer+💙;Clean+Architecture+Enthusiast;Mobile+%26+AI+Engineer;Building+Beautiful+Apps" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/almaqtri2"><img alt="profile-views" src="https://komarev.com/ghpvc/?username=almaqtri2&style=flat-square&color=00d8ff" /></a>
-  <img alt="top-language" src="https://img.shields.io/badge/Primary-Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white&colorA=0f1724&colorB=00bcd4" />
-  <img alt="status" src="https://img.shields.io/badge/Availability-Open%20to%20Opportunities-00d8ff?style=flat-square&logo=github" />
-  <a href="mailto:mohammedalmaqtri2@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-mohammedalmaqtri2%40gmail.com-00caff?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=almaqtri2&style=for-the-badge&color=00d8ff" />
+  <img src="https://img.shields.io/badge/Focus-Flutter%20%26%20AI-00d8ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Opportunities-00bcd4?style=for-the-badge" />
 </p>
 
 ---
 
-## ًں‘‹ Hi, I'm Mohammed Rafeeq Mohammed Alâ€‘Maqtri (almaqtri2)
+## 👋 About Me
 
-Flutter Developer ًں’™ â€¢ Computer Science Graduate â€¢ Mobile Application Developer â€¢ Backend Developer â€¢ AI Enthusiast
+Hi, I’m Mohammed 👨‍💻
 
-<details>
-  <summary><strong>About Me</strong></summary>
+I’m a Flutter Developer who focuses on building clean, scalable, and high-performance mobile applications.
 
-I'm a passionate Flutter developer who crafts beautiful, responsive, and high-performance mobile experiences. I focus on clean architecture, maintainable state management, and robust backend integration. My work emphasizes delightful user experiences powered by efficient code, Firebase services, REST APIs, and thoughtful UI/UX. I love using Riverpod/Bloc patterns, optimizing rendering and animations, and exploring AI-powered features to elevate app experiences.
-
-Key strengths:
-- Flutter & Dart: expressive, performant UIs and pixel-perfect implementations
-- Clean Architecture: separation of concerns, testability, and long-term maintainability
-- State Management: Riverpod, Bloc, Provider where appropriate
-- Backend & APIs: Firebase, REST APIs, Node.js/PHP/Python backends and MySQL
-- Tools: VS Code, Android Studio, Git, Postman, Linux
-</details>
+I don’t just write code — I design systems, structure architecture, and craft user experiences that feel smooth and intentional.
 
 ---
 
-## ًں”­ Current Focus
-- Flutter Clean Architecture
-- Riverpod & Bloc
-- Firebase (Auth, Firestore, RTDB, Cloud Functions)
-- REST APIs & Backend Integration
-- Performance Optimization & Animations
-- Responsive UI & Material 3
-- AI Integration with mobile-first UX
+## ⚙️ What I Do
+
+- 📱 Build cross-platform mobile apps using Flutter
+- 🏗️ Apply Clean Architecture for scalable codebases
+- ⚡ Integrate Firebase, REST APIs, and backend systems
+- 🎯 Focus on performance, animations, and UX polish
+- 🤖 Explore AI integration in mobile applications
+- 🧠 Write maintainable, testable, and structured code
 
 ---
 
-## ًں› ï¸ڈ Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="REST" src="https://img.shields.io/badge/REST_API-00ADB5?style=for-the-badge&logo=rest" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-00ADB5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </p>
 
 ---
 
-## â­گ Featured Flutter Projects
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=almaqtri2&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almaqtri2&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almaqtri2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🌱 Smart Seeds Incubator — AI-powered agriculture app
+- 🛒 E-Commerce App — Flutter + Firebase full solution
+- 📰 News App — REST API + caching + pagination system
+- 🎨 UI Clones — pixel-perfect Flutter practice apps
+- 👨‍💼 HR System — role-based employee management system
+- 💰 Collection System — finance tracking + backend integration
+
+---
+
+## 🌙 Philosophy
+
+> “Clean code is not written for machines. It is written for humans who will read it later.”
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/almaqtri2  
+- Email: mohammedalmaqtri2@gmail.com  
+- LinkedIn: (add your link here)
+
+---
+
+<p align="center">
+  <b>Building elegant mobile experiences, one pixel at a time 💙</b>
+</p>
 <details>
   <summary><strong>Project Cards</strong> (click to expand)</summary>
 
